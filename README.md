@@ -1,20 +1,20 @@
 ![logo](https://github.com/imran116/imran116/blob/main/imran-hossain.png)
 <h1 align="center">Hi 👋, I'm Md.Imran Hossain</h1>
 <h3 align="center">Let's turn ideas into algorithms and bugs into features!✨</h3>
-<!-- <img align="right" width="400px" src="https://i.pinimg.com/originals/cc/d2/92/ccd2926b176eb5cf2c2ee638ec1d0aea.gif"> -->
+<img align="right" width="400px" src="">
 
 - 💬 Ask me about **🐍Python Django**
 
 - 📫 How to reach me **personalinfo.imran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1KJMVLvj_1PiDk51DTdSNSycJ-uSFs6mN?usp=sharing](https://drive.google.com/drive/folders/1KJMVLvj_1PiDk51DTdSNSycJ-uSFs6mN?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cv4FG8BGSq2nmHHy7-j5N0zVQsOmxZJT/view?]usp=sharing(https://drive.google.com/file/d/1cv4FG8BGSq2nmHHy7-j5N0zVQsOmxZJT/view?usp=sharing)
 
 - ⚡ Fun fact **🎩🔮 Calling myself a "Code Magician" because turning bugs into features is just part of the enchantment! ✨✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imran hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran hossain" height="30" width="40" /></a>
-<a href="https://fb.com/imran hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran hossain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imran-hossain-2267a62a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran hossain" height="30" width="40" /></a>
+<a href="https://fb.com/100008621436264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran hossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
