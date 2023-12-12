@@ -1,7 +1,6 @@
-![logo](https://github.com/imran116/imran116/blob/main/imran-hossain.png)
+![logo](https://github.com/imran116/imran116/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Md.Imran Hossain</h1>
 <h3 align="center">Let's turn ideas into algorithms and bugs into features!✨</h3>
-<img align="right" width="400px" src="">
 
 - 💬 Ask me about **🐍Python Django**
 
