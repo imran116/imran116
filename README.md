@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **personalinfo.imran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cv4FG8BGSq2nmHHy7-j5N0zVQsOmxZJT/view?]usp=sharing(https://drive.google.com/file/d/1cv4FG8BGSq2nmHHy7-j5N0zVQsOmxZJT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NfTKb-bKD8ndntCCiR-elplWjuPwQfxm/view?usp=sharing)
 
 - ⚡ Fun fact **🎩🔮 Calling myself a "Code Magician" because turning bugs into features is just part of the enchantment! ✨✨**
 
