@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **🐍Python Django**
 
-- 📫 How to reach me **personalinfo.imran@gmail.com**
+- 📫 How to reach me **personalinfo.imran@gmail.com ih9114101@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NfTKb-bKD8ndntCCiR-elplWjuPwQfxm/view?usp=sharing]
 
