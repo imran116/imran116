@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran116&show_icons=true&locale=en" alt="imran116" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran116&" alt="imran116" /></p>
+![GitHub Snake Game](https://raw.githubusercontent.com/imran116/TutorWise/master/assets/github-contribution-grid-snake-dark.svg)
