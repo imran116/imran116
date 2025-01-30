@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran116&" alt="imran116" /></p>
 ### 🐍 GitHub Contribution Snake Game
-![GitHub Snake](https://raw.githubusercontent.com/your-username/your-username/main/dist/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/imran116/imran116/main/dist/snake.svg)
 
