@@ -12,8 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist  # Ensure the dist directory is created before saving the SVG
+
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.2.4
         with:
           github_user_name: ${{ github.repository_owner }}
           # Optional, you can also specify the date range
@@ -26,5 +29,4 @@ jobs:
           git config --global user.email "your-email@example.com"
           git config --global user.name "Your Name"
           git add dist/snake.svg
-          git commit -m "Update Snake Animation"
-          git push
+          git diff --cached --quiet || (git commit -m "Update Snake Animation" && git push)
