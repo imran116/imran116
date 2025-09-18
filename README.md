@@ -1,6 +1,6 @@
 ![logo](https://github.com/imran116/imran116/blob/main/banner.png)
 # 💫 About Me:
-💬 Ask me about 🐍Python Django<br><br>📫 How to reach me personalinfo.imran@gmail.com ih9114101@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1NfTKb-bKD8ndntCCiR-elplWjuPwQfxm/view?usp=sharing]<br><br>⚡ Fun fact 🎩🔮 Calling myself a "Code Magician" because turning bugs into features is just part of the enchantment! ✨✨
+💬 Ask me about 🐍Python Django | DRF <br><br>📫 How to reach me personalinfo.imran@gmail.com ih9114101@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1NfTKb-bKD8ndntCCiR-elplWjuPwQfxm/view?usp=sharing]<br><br>⚡ Fun fact 🎩🔮 Calling myself a "Code Magician" because turning bugs into features is just part of the enchantment! ✨✨
 
 
 ## 🌐 Socials:
